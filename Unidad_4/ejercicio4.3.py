@@ -18,8 +18,10 @@ def contador_de_letras(letra,palabra_o_frase):
         if i == letra:
             contador +=1
     return contador
+
 def nueva_funcion():
-    print "soy una nueva funcion"
+    print ("soy una nueva funcion")
+
 def comparador_de_palabras(palabra_1,palabra_2):
     contador_1=0
     contador_2=0
